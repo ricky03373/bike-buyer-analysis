@@ -4,7 +4,7 @@
 This project involves:
 - Exploratory Data Analysis (EDA)
 - Missing value imputation using **SimpleImputer** (scikit-learn)
-- Label encoding of categorical features
+- Label encoding of categorical variables
 
 The goal is to clean and preprocess the Bike Buyer dataset using Python and prepare it for machine learning tasks.
 
